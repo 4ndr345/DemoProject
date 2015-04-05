@@ -1,3 +1,6 @@
+.. image:: https://coveralls.io/repos/4ndr345/DemoProject/badge.svg?branch=master
+  :target: https://coveralls.io/r/4ndr345/DemoProject?branch=master
+
 ============
 DummyProject
 ============
