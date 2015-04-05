@@ -1,2 +1,4 @@
 # Add your requirements here like:
 numpy
+pytest
+pytest-cov
